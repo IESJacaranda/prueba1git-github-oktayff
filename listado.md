@@ -1,6 +1,6 @@
 Cabeza Gómez, Lucía
 Conde García, Juan Manuel
-Feim Faik, Oktay
+~~Feim Faik, Oktay~~
 Filip, Robert
 García Mateos, Gonzalo
 López Martínez, Enrique
